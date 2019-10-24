@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="name">Name</string>
+    <string name="batch">Batch</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="android_workshop">Android Workshop</string>
+    <string name="title_activity_thank_you">thankYou</string>
+    <string name="_10th_august_19">10th August 19</string>
+    <string name="register">Register</string>
+    <string name="amritapuri_campus">Amritapuri Campus</string>
+    <string name="todo">TODO</string>
+    <string name="known_languages">Known Languages</string>
+    <string name="malayalam">Malayalam</string>
+    <string name="hindi">Hindi</string>
+    <string name="english">English</string>
+    <string name="next">Next</string>
+</resources>
